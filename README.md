@@ -1,12 +1,8 @@
-### Hi there 👋
+<h2>About Me</h2>
 
-**Bilal-Ishtiyaque/Bilal-Ishtiyaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 Hi Everyone **!** I am **Bilal Ishtiyaque**
 - 🌱 I’m currently learning Web Application Development...
-- 💬 Ask me about Front-End Technologies...
+- 👨‍💻 **Experience** I have no job experience because I am a Student , But I am building projects using my Front-End Skills
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: There is no Fun Fact
 
