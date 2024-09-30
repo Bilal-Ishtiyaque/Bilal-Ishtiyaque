@@ -5,7 +5,6 @@
 - 🎓 I am pursuing a High School Diploma in **Computer Information Technology**. 
 - 👀 Enrolled in **ACCP 2.0** program at **Aptech** - on the path to becoming a skilled **Full Stack Application Developer** and **Data Analyst**.
 - 🌱 I’m currently learning **C#** to create ASP.NET Core MVC web applications.
-- 👨‍💻 **Experience :**  I have no job experience because I am a Student , But I am practicing by building projects using Front-End Skills that I have.
 
 <h2>Connect with me</h2>
 
