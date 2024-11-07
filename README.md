@@ -1,11 +1,10 @@
-<h2>About Me</h2>
+<h2>Frontend Developer</h2>
 
 
 - 👨‍🎓 Hi Everyone! I am **Bilal Ishtiyaque**
-- 🎓 I am pursuing a High School Diploma in **Computer Information Technology**. 
-- 👀 Also, pursuing **Advanced Diploma In Software Engineering** at Aptech, Pakistan - on the path to becoming a skilled **Full Stack Application Developer** and **Data Analyst**.
-- 🌱 I’m currently learning **dart & Flutter**.
-- 👨‍💻 I am skilled in HTML, CSS, JAVASCRIPT, C#, ASP.NET CORE MVC
+- 🎓 Pursuing a High School Diploma in **Computer Information Technology**. 
+- 👀 Pursuing **Advanced Diploma In Software Engineering** at Aptech, Pakistan - on the path to becoming a skilled **Full Stack Application Developer** and **Data Analyst**.
+- 🌱 Currently learning **dart & Flutter**.
 
 <h2>Connect with me</h2>
 
