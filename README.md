@@ -3,8 +3,8 @@
 
 - 👨‍🎓 Hi Everyone! I am **Bilal Ishtiyaque**
 - 🎓 Pursuing a High School Diploma in **Computer Information Technology**. 
-- 👀 Pursuing **Advanced Diploma In Software Engineering** at Aptech, Pakistan - on the path to becoming a skilled **Full Stack Application Developer** and **Data Analyst**.
-- 🌱 Currently learning **dart & Flutter**.
+- 👀 Pursuing **Advanced Diploma In Software Engineering** at Aptech, Pakistan - becoming a skilled **Full Stack Application Developer** and **Data Analyst**.
+- 🌱 Currently learning **MERN STACK**.
 
 <h2>Connect with me</h2>
 
