@@ -1,10 +1,10 @@
-<h2>Frontend Developer</h2>
+<h2>Mern Stack Developer</h2>
 
 
 - 👨‍🎓 Hi Everyone! I am **Bilal Ishtiyaque**
 - 🎓 Completed High School Diploma in **Computer Information Technology**. 
 - 👀 Pursuing **Advanced Diploma In Software Engineering** at Aptech, Pakistan - becoming a skilled **Full Stack Application Developer** and **Data Analyst**.
-- 🌱 Working with **MERN STACK**.
+- 🌱 Currently Working with **Python**.
 
 <h2>Connect with me</h2>
 
