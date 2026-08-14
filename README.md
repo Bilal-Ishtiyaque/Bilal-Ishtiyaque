@@ -1,4 +1,4 @@
-<h2>Mern Stack Developer</h2>
+<h2>Backend Developer</h2>
 
 
 - 👨‍🎓 Hi Everyone! I am **Bilal Ishtiyaque**
